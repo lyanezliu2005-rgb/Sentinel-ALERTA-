@@ -13,5 +13,10 @@ El sistema está diseñado para recibir y procesar alertas gatilladas mediante:
 * 🚨 **Botón Físico:** Pulsación dedicada de pánico (Llaveros Bluetooth o smartphone).
 * 📡 **Redundancia SMS:** Envío de alertas de texto plano cifradas en zonas de baja conectividad.
 
+## 🌐 Acceso al Prototipo En Vivo
+
+El prototipo funcional se encuentra desplegado y disponible para evaluación directa en el siguiente enlace: 👉 [Ejecutar Aplicación ALERTA++](https://base44.app)
+
 ---
 *Nota: La conexión de la API se gestiona de forma segura a través de los secretos de entorno del repositorio.*
+
