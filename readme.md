@@ -15,7 +15,7 @@ El sistema está diseñado para recibir y procesar alertas gatilladas mediante:
 
 ## 🌐 Acceso al Prototipo En Vivo
 
-El prototipo funcional se encuentra desplegado y disponible para evaluación directa en el siguiente enlace: 👉 [Ejecutar Aplicación SENTINEL ALERTA++]([https://base44.app](https://rugged-sentinel-safe-link.base44.app))
+El prototipo funcional se encuentra desplegado y disponible para evaluación directa en el siguiente enlace: 👉 [Ejecutar Aplicación SENTINEL ALERTA++]([https://base44.app](https://rugged-sentinel-safe-link.base44.app)
 
 ---
 *Nota: La conexión de la API se gestiona de forma segura a través de los secretos de entorno del repositorio.*
